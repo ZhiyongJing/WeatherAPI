@@ -1,10 +1,11 @@
 # Openweathermap API Node.js
-This is a simple Node.js application which consumes the Openweathermap API to display the weather details. It is consumable and fantastic!
+This is a simple Node.js application by calling the Openweathermap API to return the weather details.
 
-## LICENSE
+## Set up and run demo
+1. Dowload whole project
+2. Use npm update to install package mentioned in package.json
+3. Update the API key in the .env file
+4. Run nodemon server to spin up backend.
+5. Open browser to run localhost:3000/{cityName}
 
-License: [MIT](licencse)
 
-## Final product
-
-![Final Image](finalImage.png)
